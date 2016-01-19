@@ -1,0 +1,1 @@
+I need to gather info and create schema for DB
